@@ -3,4 +3,4 @@
 
 ##1. Workflow
 
-To createa Github actions workflow you need a folder called "/gifhub/workflows"
+To createa Github actions workflow you need a folder called ".gifhub/workflows"
